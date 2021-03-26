@@ -7,7 +7,7 @@
 [![Releases](https://img.shields.io/github/release/tinyms-ai/tinyms/all.svg?style=flat-square)](https://github.com/tinyms-ai/tinyms/releases)
 [![LICENSE](https://img.shields.io/github/license/tinyms-ai/tinyms.svg?style=flat-square)](https://github.com/tinyms-ai/tinyms/blob/main/LICENSE)
 
-English | [查看中文](./README_CN.md)
+English | [ 查看中文 ](./README_CN.md)
 
 TinyMS is an Easy-to-Use deep learning development toolkit based on [MindSpore](https://www.mindspore.cn/en/), designed to providing quick-start guidelines for machine learning beginners.
 
