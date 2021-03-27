@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/tinyms-ai/tinyms/raw/main/docs/pic/tinyms-logo.png" alt="TinyMS logo" width="300"/></p>
 
-# TinyMS
+<h1 align="center"><a>TinyMS</a></h1>
 
 [![Pypi](https://img.shields.io/pypi/v/tinyms.svg)](https://pypi.org/project/tinyms)
 [![Python](https://img.shields.io/pypi/pyversions/tinyms.svg)](https://pypi.org/project/tinyms)
